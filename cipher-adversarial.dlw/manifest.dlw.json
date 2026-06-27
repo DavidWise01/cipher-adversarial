@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-CIPHER_ADVERSARIAL",
+  "name": "ADVERSARIAL AUDIO · ADV",
+  "universe": "HERMES",
+  "moniker": "⟦ADVERSARIAL AUDIO · ADV:cipher-adversarial:ca5fda⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "ca5fdaa9a03204dc0a9579f76da331673ecd7801b6f6d2967f958a9e7fb13d32",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
